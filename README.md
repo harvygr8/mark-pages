@@ -1,5 +1,5 @@
 # mark-pages
- Web app made with Next.JS , MongoDB and Chakra UI that allows you to paste and share text quickly
+ Web app made with Next.JS , MongoDB and Chakra UI that allows you to make and share markdown pages quickly.
 
  ![](img/show.png)
 
@@ -12,7 +12,7 @@
   npm install
   ```
   - Enter your mongodb URI in the next.config.js file
-  
+
   - To Run the application
   ```sh
   npm run dev
